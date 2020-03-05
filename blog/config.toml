@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://fox0430.github.io"
 languageCode = "en-us"
 theme = "hugo-notepadium"
 title = "Shuu's Personal Note"

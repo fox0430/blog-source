@@ -1,0 +1,11 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+theme = "hugo-notepadium"
+title = "Shuu's Personal Note"
+
+hasCJKLanguage = true
+
+enableRobotsTXT = true
+
+[params]
+style = "dark"

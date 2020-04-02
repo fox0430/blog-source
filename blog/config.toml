@@ -9,3 +9,9 @@ enableRobotsTXT = true
 
 [params]
 style = "dark"
+
+# disqus
+disqusShortname = "shuus-personal-note"
+
+[params.comments]
+enable = true

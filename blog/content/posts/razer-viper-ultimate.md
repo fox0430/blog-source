@@ -2,6 +2,7 @@
 title: "Razer Viper Ultimate"
 date: 2020-03-11T03:38:19+09:00
 draft: false
+comments: true
 ---
 
 TR; DR: Razer Viper Ultimate is currently not configurable on Linux but can be used.

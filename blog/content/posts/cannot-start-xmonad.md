@@ -1,5 +1,5 @@
 ---
-title: "Can not start and recompile the xmonad config file"
+title: "Cannot start xmonad and recompile configuration file"
 date: 2020-05-16T01:32:03+09:00
 draft: false
 ---

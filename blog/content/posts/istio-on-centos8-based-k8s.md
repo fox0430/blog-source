@@ -1,7 +1,7 @@
 ---
 title: "Panic in istio-init on Centos8 Based kubernetes cluster"
 date: 2020-07-31T17:05:20+09:00
-draft: true
+draft: false
 ---
 
 # Background
